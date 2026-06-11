@@ -2,15 +2,21 @@
 
 An AI agent skill that generates high-performing YouTube thumbnails from a video title alone. It analyzes the title to auto-detect the niche, select a composition template, choose a color strategy, and produce a complete AI image generation prompt.
 
+## Supported Agents
+This skill is compatible with the universal [skills.sh](https://www.skills.sh/) ecosystem and works automatically with:
+- Cursor, Trae, Windsurf, VS Code
+- Cline, Roo, Antigravity, Gemini
+- GitHub Copilot, Codex, and 10+ more AI coding agents.
+
 ## Installation
 
-You can install this skill directly into your agent using `npx`:
+You can install this skill globally for all your AI agents using the universal `skills` CLI:
 
 ```bash
-npx github:yikunoamlak/youtube-thumbnail-generator-skill
+npx skills add yikunoamlak/youtube-thumbnail-generator-skill
 ```
 
-This will automatically copy the `SKILL.md` file into your `~/.gemini/config/skills/youtube-thumbnail-generator/` directory.
+This will automatically detect which agents you have installed and deploy the skill to all of them.
 
 ## Usage
 
