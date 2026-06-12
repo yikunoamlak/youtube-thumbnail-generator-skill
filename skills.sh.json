@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "YouTube Thumbnails",
+      "description": "Generate click-worthy YouTube thumbnails from video titles using AI image generation.",
+      "skills": [
+        "youtube-thumbnail-generator"
+      ]
+    }
+  ]
+}

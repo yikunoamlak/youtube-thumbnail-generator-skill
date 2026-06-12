@@ -18,7 +18,7 @@ Transform a video title into a click-worthy, professional YouTube thumbnail by g
 ## Reference Document
 
 **MANDATORY**: Before generating any thumbnail, read the full reference guide:
-- [youtube-thumbnail-generation-guide.md](file:///h:/Studio/2026/Thumbnails/youtube-thumbnail-generation-guide.md)
+- [youtube-thumbnail-generation-guide.md](./references/youtube-thumbnail-generation-guide.md)
 
 This guide contains the complete system: technical specs, composition templates, color strategies, niche rules, typography systems, and quality checklist.
 
